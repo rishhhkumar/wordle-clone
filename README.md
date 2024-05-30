@@ -30,7 +30,4 @@ Welcome to the Wordle Clone! This project is a recreation of the popular word-gu
 ### Contributing
 Contributions are welcome! To contribute to this project, please fork the repository and submit a pull request with your changes. Ensure your code adheres to the existing style guidelines and passes all tests.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Thank you for checking out the Wordle Clone! If you have any questions or feedback, please feel free to reach out. Enjoy playing!
